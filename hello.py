@@ -1,2 +1,4 @@
 testabc
+<<<<<<< HEAD
+conflict
 hehe
