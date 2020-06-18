@@ -1,4 +1,4 @@
 # test001
 2
 3
-branch dev test
+Creating a new branch is quick & simple.
