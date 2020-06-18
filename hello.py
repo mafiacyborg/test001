@@ -1,4 +1,3 @@
 testabc
-<<<<<<< HEAD
 conflict
 hehe
